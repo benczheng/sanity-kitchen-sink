@@ -37,27 +37,36 @@ const Footer = ({ siteTitle }) => (
           <p className="uppercase text-gray-500 md:mb-6">Links</p>
           <ul className="list-reset mb-6">
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="https://www.tailwindtoolbox.com/templates/landing-page">
+              <a href="#">
                 <span className="hover:underline text-gray-800 hover:text-orange-500">
-                  Page theme
+                  Issues
                 </span>
               </a>
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://sanity.io/docs"
+                href="#"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
-                Sanity Help
+                Insights
               </a>
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://slack.sanity.io"
+                href="#"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
-                Slack Community
+                People
               </a>
+            </li>
+
+            <li className="mt-2 inline-block mr-2 md:block md:mr-0">
+               <a
+                  href="#"
+                  className="no-underline hover:underline text-gray-800 hover:text-orange-500"
+                >
+                  Programs
+               </a>
             </li>
           </ul>
         </div>
@@ -81,36 +90,44 @@ const Footer = ({ siteTitle }) => (
           <ul className="list-reset mb-6">
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://twitter.com/sanity_io"
+                href="https://www.facebook.com/groups/214452549853531/about/"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
-                Twitter
+                Facebook
               </a>
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://www.linkedin.com/company/sanity-io/"
+                href="#"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
-                Linkedin
+                Slack Community
               </a>
             </li>
+            <li className="mt-2 inline-block mr-2 md:block md:mr-0">
+              <a
+            href="#"
+            className="no-underline hover:underline text-gray-800 hover:text-orange-500"
+              >
+              Instagram
+              </a>
+              </li>
           </ul>
         </div>
         <div className="flex-1">
-          <p className="uppercase text-gray-500 md:mb-6">Company</p>
+          <p className="uppercase text-gray-500 md:mb-6">About Us</p>
           <ul className="list-reset mb-6">
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <Link
                 to="/blog"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
-                Blog
+                Newsletter
               </Link>
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://www.sanity.io/contact"
+                href="#"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
                 Contact
