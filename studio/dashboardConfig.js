@@ -19,8 +19,8 @@ export default {
                 },
                 {
                   buildHookId: '5eecaaa03ee7b6fa787c2638',
-                  title: 'Blog Website',
-                  name: 'sanity-kitchen-sink-web-y4snshiv',
+                  title: 'Website',
+                  name: 'covid-community-care',
                   apiId: '17d17c93-cbe5-4a77-853c-7ff0bbf797a9'
                 }
               ]
