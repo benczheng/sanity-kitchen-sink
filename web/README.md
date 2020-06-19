@@ -1,1 +1,1 @@
-Community Resources for Coronavirus
+sanity-kitchen-sink-web
