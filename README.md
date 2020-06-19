@@ -32,6 +32,6 @@ Netlify automatically deploys new changes commited to master on GitHub. If you w
 
 ## Stuck? Get help
 
-[![Facebook Community](https://slack.sanity.io/badge.svg)](https://slack.sanity.io/)
+[![Facebook Community](#)](#)
 
 Join [Facebook community](https://www.facebook.com/groups/214452549853531/) or ping us [on Slack](#).
