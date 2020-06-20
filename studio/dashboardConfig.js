@@ -30,12 +30,12 @@ export default {
         data: [
           {
             title: 'GitHub repo',
-            value: 'https://github.com/benczheng/sanity-kitchen-sink',
+            value: 'https://github.com/benczheng/covid-communitycare',
             category: 'Code'
           },
           {
             title: 'Frontend',
-            value: 'https://sanity-kitchen-sink-web-y4snshiv.netlify.app',
+            value: 'https://covid-community-care.netlify.app/',
             category: 'apps'
           }
         ]
