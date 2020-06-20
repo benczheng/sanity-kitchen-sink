@@ -38,9 +38,7 @@ const Footer = ({ siteTitle }) => (
           <ul className="list-reset mb-6">
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a href="#">
-                <span className="hover:underline text-gray-800 hover:text-orange-500">
-                  Issues
-                </span>
+                <span className="hover:underline text-gray-800 hover:text-orange-500">Issues</span>
               </a>
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
@@ -61,12 +59,12 @@ const Footer = ({ siteTitle }) => (
             </li>
 
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-               <a
-                  href="#"
-                  className="no-underline hover:underline text-gray-800 hover:text-orange-500"
-                >
-                  Programs
-               </a>
+              <a
+                href="#"
+                className="no-underline hover:underline text-gray-800 hover:text-orange-500"
+              >
+                Programs
+              </a>
             </li>
           </ul>
         </div>
@@ -106,12 +104,12 @@ const Footer = ({ siteTitle }) => (
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-            href="#"
-            className="no-underline hover:underline text-gray-800 hover:text-orange-500"
+                href="#"
+                className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
-              Instagram
+                Instagram
               </a>
-              </li>
+            </li>
           </ul>
         </div>
         <div className="flex-1">

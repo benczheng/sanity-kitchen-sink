@@ -33,7 +33,11 @@ export default {
             value: 'https://github.com/benczheng/sanity-kitchen-sink',
             category: 'Code'
           },
-          {title: 'Frontend', value: 'https://sanity-kitchen-sink-web-y4snshiv.netlify.app', category: 'apps'}
+          {
+            title: 'Frontend',
+            value: 'https://sanity-kitchen-sink-web-y4snshiv.netlify.app',
+            category: 'apps'
+          }
         ]
       }
     },
