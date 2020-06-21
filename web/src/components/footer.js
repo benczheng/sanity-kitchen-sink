@@ -96,7 +96,7 @@ const Footer = ({ siteTitle }) => (
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="https://join.slack.com/t/covidcommunitycare/shared_invite/zt-evg9hyfk-kZVwao4ZnaFVQQURcRo6XA"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
                 Slack Community
@@ -104,7 +104,7 @@ const Footer = ({ siteTitle }) => (
             </li>
             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="https://www.instagram.com/covmunnitycare/"
                 className="no-underline hover:underline text-gray-800 hover:text-orange-500"
               >
                 Instagram
